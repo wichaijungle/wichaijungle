@@ -1,0 +1,2120 @@
+{
+  "settings": {
+    "name": "Wichai Jungle Homestay",
+    "currentPage": "Gallery.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f7da64",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#c0a375",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Oxygen",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#9b9f48",
+        "#7c7c7c",
+        "#fadd86",
+        "#e2d7a1",
+        "#dae68a"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "4.6.6",
+    "uniqCompNum": 38,
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "Wichai's Jungle Homestay",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pc092672-1280x960.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#d14841",
+            "overlayOpacity": "0.2"
+          },
+          "title": "WICHAI'S JUNGLE HOMESTAY",
+          "text": "Another way to experience Thailand.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#dae68a"
+          },
+          "text": "<p>Wichai's Jungle Homestay is located in the South of Thailand in a peaceful rural area. It is a quiet and unique place off the beaten track. The only sounds you hear are birds and other animals living in the jungles. The natural environment can stimulate creativity and gives you the space to come close to yourself. If you are looking for a place to calm down, to have a good rest out of touristic routs, to enjoy some creative work if you are an artist, musician or writer, our homestay is for you. Accommodation is in handmade bamboo bungalows, no electricity inside. Of course we have electricity in toilets, showers and kitchen. &nbsp;In each bungalow we provide a mattress, pillows, blanket and mosquito net. There is Wi-Fi in shared lounge area. You can use bicycles for free to ride around and see a simple life of local farmers, all roads are flat and almost no traffic. There is a small shop in front of the homestay where you can buy some necessaries, beer, snacks, rice, noodles, etc. By bicycle you can go to the town 4 km away, there are many shops and market where you can buy other foods. Use our kitchen for cooking, we provide different kitchen utensils. There is a washing mashing you can use for 20 Thai baht/one time. This place is good for long stay, if you are not a party-goer. As it is right now, you have the perfect atmosphere and locations to practice yoga, meditation, and physical exercise (like slacklining or volleyball), or simply chill out. Furthermore, the jungle surrounds a beautiful lagoon, giving you the opportunity to swim or kayaking or just simply admire the amazing view. &nbsp;As an option you can make a day trip from here to Dadfa Waterfall at Tai Rom Yen Natural Park, 19 km, to &nbsp;Kanom beach, 80km, and other places.</p><p>Please, visit our <a href=\"Gallery.html\" class=\"text-success\">photo gallery</a> to get some idea of what to expect here. Our daughter Earn is a professional massage therapist, she does relaxing Thai massage and different kinds of Spa massage for 200 B per hour.</p><p>The price of one bungalow is 300 Thai baht per day, 11% discount per week, 31% discount per month.</p><p>If you got interested, you can book <a href=\"Location.html#form1-11\" class=\"text-success\">from us directly</a> or use any of the following websites:</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#dae68a"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Booking.com</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">AirBnb.com</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Expedia.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-l"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#dae68a",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb172346-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb172346-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1143394-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1143394-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb172356-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb172356-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb252498-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb252498-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/49784249-455368741871854-3249106041748586496-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/49784249-455368741871854-3249106041748586496-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pc092688-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc092688-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pc092685-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pc092685-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1072830-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1072830-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-i"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#dae68a"
+          },
+          "text": "<p>The story of Wichai's Jungle Homestay begins 60 years ago, when a state-owned company mined tin here. as a result, many forests were cut down, roads were laid. As the works of tin mining were finished, the land was transferred to the ownership of the local villagers. Wichai's father bought a piece of land from the locals, and then handed it over to Wichai with brothers. Wichai chose a piece of land the most unsuitable for farming - it had a big pond and all the land was covered with sand left over from the extraction of tin.\n</p><p>Our idea was to begin reforestation of the land and try to return it to its original state. Many seeds and plants have survived, but only the strongest plants resistant to sandy soil have fully grown. Year after year, plants produce nutritious humus and gradually new plants are able to take root.  Gradually the wasteland turned into jungles. Thus, homestay surrounded by plantations of oil palm and rubber, became a unique example of the natural characteristic of the area.\n</p><p>Since we worked together as teachers (Wichai was an art teacher, Naiyana - a teacher of biology), we began to organize nature classrooms for students called \"Forest lovers youth club\", \"Art club\" for art students and boy and girl scouts camp. The aim of these camps was to teach students to love nature, and the only way to achieve this was to show them nature and bring them closer to it.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#dae68a",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old1-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old1-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old16-2-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old16-2-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old2-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old2-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old13-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old13-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old11-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old11-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old12-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old12-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old8-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old8-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old10-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old10-800x533-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-k"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#dae68a"
+          },
+          "text": "<p>When we retired, we built a small house to spend more time here and to invite friends to visit. One of our friends from USA, Grego Robin, advised us to expand the space for guests, so that travelers from other countries could get the opportunity to relax in these peaceful atmosphere as well. He also advised us to invite volunteers to help in the construction. Thus in March 2017 the project of creating the homstay was started. Since that time we've done alot of work with the energy of our volunteers.</p><p>If you want to join the volunteer team and help us with manual work, do not hesitate to &nbsp;<a href=\"Location.html#form1-11\" class=\"text-success\">contact us</a>&nbsp;directly or apply via websites&nbsp;<a href=\"https://www.helpx.net/host.asp?hostid=87493\" target=\"_blank\" class=\"text-success\">www.helpx.net</a> or <a href=\"https://www.worldpackers.com/locations/wichai-s-jungle-home-stay\" target=\"_blank\" class=\"text-success\">www.worldpackers.com</a>.</p><p>As a volunteer you will get free accomodation in tent, room or bamboo hut. In each room we provide a mattress, pillow, blanket and mosquito net. You can also use the shared kitchen, so you can buy and cook your own food here. You can use our bicycles to go to markets in a town. We work 3 hours a day from 9:00 AM till 12:00 AM, 5 days a week (Monday-Friday). On weekend you can stay here or make your trip to Dadfa Waterfall at Tai Rom Yen Natural Park, 19 km from here and also Kanom beach, 80 km and others. Please bring gloves and torch if possible.</p><p>Minimum stay is two weeks. Even if you don't have special skill but you can learn fast and bring your heart and hands for help you are more welcome.<span style=\"font-size: 1.07rem;\">&nbsp;</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-o"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#dae68a",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-11-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-11-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-12-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-12-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-14-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-14-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-21-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-21-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-16-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-16-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3620-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3620-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-18-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-18-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-q"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9b9f48",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wichai-1-yellow-128x55.png",
+              "width": 128,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "",
+              "color": "#ffffff"
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/v8kERtzzoCk\" target=\"_blank\">130/5 Mo.5, Kornsuban, Bannasan, Suratthani, Thailand, 84240</a><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: bigmamathailand@hotmail.com<br>\nPhone: +66893909961<br>",
+          "text3": "<strong>Links</strong><br><a href=\"https://www.booking.com/hotel/th/wichai-39-s-jungle-home-stay.ru.html\" target=\"_blank\">Booking.com</a><br>\n<a href=\"https://www.airbnb.com/rooms/21950652?adults=1&amp;guests=1&amp;locale=en\" target=\"_blank\">Airbnb.com</a><br>\n<a href=\"https://www.expedia.com/Surat-Thani-Hotels-Wichais-Jungle-Home-Stay.h20237882.Hotel-Information?exp_dp=&amp;exp_cur=&amp;exp_partner=1D_V2&amp;exp_ts=1546399729592\" target=\"_blank\">Expedia.com</a><br><a href=\"https://www.facebook.com/Suratjunglehomestay/\" target=\"_blank\">Facebook.com</a><br><a href=\"https://www.instagram.com/wichaisjunglehomestay/\" target=\"_blank\">Instagram<br></a><a href=\"https://www.tripadvisor.com/Hotel_Review-g297917-d13008738-Reviews-Wichai_s_Jungle_Home_Stay-Surat_Thani_Surat_Thani_Province.html\" target=\"_blank\">TripAdvisor.com</a><a href=\"https://www.facebook.com/Suratjunglehomestay/\" target=\"_blank\"><br></a><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2",
+          "_styles": {
+            "STRONG": {
+              "color": "#fadd86"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#f7da64"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#9b9f48",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-h\">Homestay</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-j\">Our story</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-o\">For Volunteers</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Location.html\">How to get here</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Location.html#form1-11\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#797c38"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#919443!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#9b9f48"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f7da64!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-297x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WICHAI'S JUNGLE HOMESTAY</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6"
+        }
+      ]
+    },
+    "Location.html": {
+      "settings": {
+        "meta_descr": "Location of Wichai's Jungle Homestay",
+        "title": "Location",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgColor": "#dae68a"
+          },
+          "text": "<p>Our place is located in a village about 30 km from Surat Thani City, 7 km outside the Ban Na town and 4 km from Thung Tao town.  There are no frequent buses that go directly to here. It is accessible by other means of transportation listed below.</p><p><br></p><p>\n</p><p><span style=\"font-size: 1.07rem;\">From Bangkok :&nbsp;the best is taking train number 173 to Banna. The train leaves at 5.35 pm and arrives Banna station at 6.30 am next morning. We can pick you up there and then drive to the jungle 7 km far from Banna.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>From Malaysia :&nbsp;via land border crossing, if you are coming to Thailand via land you can take the bus to Hat Yai railway station and then take the ordinary train number 448 to Banna. The train leaves Hat Yai around 11 am and arrives Banna at 5.23 pm.It costs only 51 baht. We can pick you up there .</p><p><br></p><p>\n</p><p>From Suratthani City :&nbsp;from any city in Thailand take train/bus/plane to Suratthani first and then take a mini van from Taladkaset 2 (bus terminal) to Banna. There are many van offices there but try to find the van for Banna only and you don't miss. The van leaves every hour untill 6pm. It costs 60 baht and take around an hour to Banna. We will pick you up at Banna van station.</p><p><br></p><p>\n</p><p>From Krabi province : you can take a bus Krabi-Suratthani and ask the driver to drop you in Thung Tao town in front of 7/11 (supermarket), call us to pick you up there.\n</p><p><br></p><p>There are mini van between Surat Thani and Ban Na every hour, buses from Surat Thani or Krabi passes Thung Tao almost every hour, so it's easy to get to. Ban Na has a train station that connects all the way from Malaysia to Bangkok, so also easy to get here by train. &nbsp;If you arrive by train, we can pick you up at Ban Na train station for free or at Suratthani train staition for extra 400 B, Suratthani airport 500 B, just let us know.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-y"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "130/5 Mo. 5, Nongkla Kiemngam Road ตำบล ทุ่งเตา อำเภอ บ้านนาสาร สุราษฎร์ธานี 84240",
+              "placeId": "ChIJq_R9daT6UzARobjvvWnMA_s",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dae68a",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Feel free to ask us any question.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "bigmamathailand@hotmail.com",
+            "alerts": {
+              "success": "Thank you!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": ""
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-11",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#9b9f48"
+            },
+            "SMALL": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9b9f48",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wichai-1-yellow-128x55.png",
+              "width": 128,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "",
+              "color": "#ffffff"
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/v8kERtzzoCk\" target=\"_blank\">130/5 Mo.5, Kornsuban, Bannasan, Suratthani, Thailand, 84240</a><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: bigmamathailand@hotmail.com<br>\nPhone: +66893909961<br>",
+          "text3": "<strong>Links</strong><br><a href=\"https://www.booking.com/hotel/th/wichai-39-s-jungle-home-stay.ru.html\" target=\"_blank\">Booking.com</a><br>\n<a href=\"https://www.airbnb.com/rooms/21950652?adults=1&amp;guests=1&amp;locale=en\" target=\"_blank\">Airbnb.com</a><br>\n<a href=\"https://www.expedia.com/Surat-Thani-Hotels-Wichais-Jungle-Home-Stay.h20237882.Hotel-Information?exp_dp=&amp;exp_cur=&amp;exp_partner=1D_V2&amp;exp_ts=1546399729592\" target=\"_blank\">Expedia.com</a><br><a href=\"https://www.facebook.com/Suratjunglehomestay/\" target=\"_blank\">Facebook.com</a><br><a href=\"https://www.instagram.com/wichaisjunglehomestay/\" target=\"_blank\">Instagram<br></a><a href=\"https://www.tripadvisor.com/Hotel_Review-g297917-d13008738-Reviews-Wichai_s_Jungle_Home_Stay-Surat_Thani_Surat_Thani_Province.html\" target=\"_blank\">TripAdvisor.com</a><a href=\"https://www.facebook.com/Suratjunglehomestay/\" target=\"_blank\"><br></a><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#fadd86"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "contacts1-v"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#9b9f48",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-h\">Homestay</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-j\">Our story</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-o\">For Volunteers</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Location.html\">How to get here</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Location.html#form1-11\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#797c38"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#919443!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#9b9f48"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f7da64!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-297x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WICHAI'S JUNGLE HOMESTAY</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-w"
+        }
+      ]
+    },
+    "Gallery.html": {
+      "settings": {
+        "meta_descr": "Wichai's Jungle Homestay",
+        "title": "Gallery",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgColor": "#9b9f48"
+          },
+          "title": "Wichai's Jungle Homestay",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-35-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-35-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb172381-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb172381-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb172355-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb172355-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb202467-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb202467-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb202463-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb202463-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1072849-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1072849-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1072857-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1072857-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb182449-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb182449-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pb172318-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pb172318-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1072840-2-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1072840-2-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/slackline-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/slackline-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163498-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163498-800x600-800x600.jpg",
+                "alt": "Wichai's Jungle Homestay in Thailand, Suratthani",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#9b9f48"
+          },
+          "title": "Surroundings",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1143303-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1143303-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1143360-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1143360-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1143293-1-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1143293-1-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1143330-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1143330-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1143326-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1143326-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1062818-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1062818-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1113053-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1113053-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163508-1-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163508-1-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#9b9f48"
+          },
+          "title": "Wichai's Jungles",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#9b9f48",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1123131-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123131-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1123110-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123110-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1102959-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1102959-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1123172-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123172-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/nature1-700x525.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nature1-700x525-700x525.jpg",
+                "alt": "Thailand nature",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/nature2-700x525.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nature2-700x525-700x525.jpg",
+                "alt": "Thailand nature",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1123159-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123159-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163573-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163573-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1123070-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123070-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/oI2syqM3V40",
+                "image": "@PROJECT_PATH@/assets/images/p1102958-1-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1102958-1-800x600-800x600.jpg",
+                "alt": "",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163481-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163481-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-0-4-19-15-53-56434.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/oI2syqM3V40",
+                "image": "@PROJECT_PATH@/assets/images/p1123172-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123172-800x600-800x600.jpg",
+                "alt": "Thailand nature",
+                "caption": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-u"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1123139-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123139-800x600-800x600.jpg",
+                "alt": "Nepenthes sp. Anipahan",
+                "caption": "Nepenthes sp. Anipahan<br>(Monkey Cups)",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1123210-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1123210-800x600-800x600.jpg",
+                "alt": "Eurycoma Longifolia",
+                "caption": "Eurycoma Longifolia",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163420-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163420-800x600-800x600.jpg",
+                "alt": "Psilotum",
+                "caption": "Psilotum",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163480-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163480-800x600-800x600.jpg",
+                "alt": "Salacca Wallichiana (Snake Fruit)",
+                "caption": "Salacca Wallichiana (Snake Fruit)",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163488-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163488-800x600-800x600.jpg",
+                "alt": "Rhodomyrtus tomentosa Downy myrtle",
+                "caption": "Rhodomyrtus Tomentosa<br>(Downy myrtle)",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163495-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163495-800x600-800x600.jpg",
+                "alt": "Hibiscus sabdariffa (Rossella)",
+                "caption": "Hibiscus Sabdariffa (Rossella)",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163457-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163457-800x600-800x600.jpg",
+                "alt": "Anacardium Occidentale (Cashew Nut)",
+                "caption": "Anacardium Occidentale (Cashew nut)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163475-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163475-800x600-800x600.jpg",
+                "alt": "Lepionurus sylvestris",
+                "caption": "Lepionurus Sylvestris",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163476-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163476-800x600-800x600.jpg",
+                "alt": "Gnetum gnemon",
+                "caption": "Gnetum Gnemon",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163602-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163602-800x600-800x600.jpg",
+                "alt": "Artocarpus heterophyllus",
+                "caption": "Artocarpus heterophyllus (Jack fruit)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163599-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163599-800x600-800x600.jpg",
+                "alt": "Piper sarmentosum",
+                "caption": "Piper Sarmentosum",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1163534-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1163534-800x600-800x600.jpg",
+                "alt": "Beaumontia grandiflora",
+                "caption": "Beaumontia Grandiflora",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-10"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#9b9f48"
+          },
+          "title": "Our volunteers",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3347-1936x1936.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3347-1936x1936-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3532-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3532-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3844-1936x1936.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3844-1936x1936-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3862-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3862-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3864-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3864-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3896-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3896-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3917-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3917-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4102-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4102-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-6-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-17-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-17-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-19-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-19-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-15-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-15-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5020-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5020-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5137-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5137-800x800-800x800.jpg",
+                "alt": "Volunteering in Thailand",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#9b9f48"
+          },
+          "title": "Wichai's Jungles in the past",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#e2d7a1",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old1-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old1-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old16-2-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old16-2-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old5-1-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old5-1-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old17-1-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old17-1-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old2-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old2-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old13-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old13-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old11-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old11-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old6-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old6-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old18-1-1800x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old18-1-1800x1200-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old12-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old12-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old8-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old8-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old19-1800x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old19-1800x1200-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old9-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old9-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old10-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old10-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old14-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old14-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/old15-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/old15-1200x800-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9b9f48",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wichai-1-yellow-128x55.png",
+              "width": 128,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "",
+              "color": "#ffffff"
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/v8kERtzzoCk\" target=\"_blank\">130/5 Mo.5, Kornsuban, Bannasan, Suratthani, Thailand, 84240</a><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: bigmamathailand@hotmail.com<br>\nPhone: +66893909961<br>",
+          "text3": "<strong>Links</strong><br><a href=\"https://www.booking.com/hotel/th/wichai-39-s-jungle-home-stay.ru.html\" target=\"_blank\">Booking.com</a><br>\n<a href=\"https://www.airbnb.com/rooms/21950652?adults=1&amp;guests=1&amp;locale=en\" target=\"_blank\">Airbnb.com</a><br>\n<a href=\"https://www.expedia.com/Surat-Thani-Hotels-Wichais-Jungle-Home-Stay.h20237882.Hotel-Information?exp_dp=&amp;exp_cur=&amp;exp_partner=1D_V2&amp;exp_ts=1546399729592\" target=\"_blank\">Expedia.com</a><br><a href=\"https://www.facebook.com/Suratjunglehomestay/\" target=\"_blank\">Facebook.com</a><br><a href=\"https://www.instagram.com/wichaisjunglehomestay/\" target=\"_blank\">Instagram<br></a><a href=\"https://www.tripadvisor.com/Hotel_Review-g297917-d13008738-Reviews-Wichai_s_Jungle_Home_Stay-Surat_Thani_Surat_Thani_Province.html\" target=\"_blank\">TripAdvisor.com</a><a href=\"https://www.facebook.com/Suratjunglehomestay/\" target=\"_blank\"><br></a><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#fadd86"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "contacts1-8"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#9b9f48",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-h\">Homestay</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-j\">Our story</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-o\">For Volunteers</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Location.html\">How to get here</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Location.html#form1-11\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#797c38"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#919443!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#9b9f48"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f7da64!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-white-297x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WICHAI'S JUNGLE HOMESTAY</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-9"
+        }
+      ]
+    }
+  }
+}
