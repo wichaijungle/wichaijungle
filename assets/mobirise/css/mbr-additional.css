@@ -1,8 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Caveat+Brush:400);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
 
 
 
@@ -40,7 +41,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -54,7 +55,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -66,13 +67,13 @@ h6,
   font-family: 'Lora', serif;
 }
 .mbr-author-name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
 }
 .mbr-plan-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -114,8 +115,8 @@ h6,
   border-color: #f3c91b !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #41a85f;
+  border-color: #41a85f;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -124,14 +125,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #2c7140;
+  border-color: #2c7140;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #2c7140 !important;
+  border-color: #2c7140 !important;
 }
 .btn-info {
   background-color: #c0a375;
@@ -235,8 +236,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #255e35;
+  color: #255e35;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -244,14 +245,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #41a85f;
+  border-color: #41a85f;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #41a85f !important;
+  border-color: #41a85f !important;
 }
 .btn-info-outline {
   background: none;
@@ -416,7 +417,21 @@ h6,
   display: none;
 }
 #header1-1 .mbr-section-title {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Caveat Brush', handwriting;
+  color: #ffffff;
+}
+#header1-1 .mbr-section-lead {
+  font-family: 'Caveat Brush', handwriting;
+}
+#header1-1 .mbr-section-lead SPAN {
+  color: #ffffff;
+  font-size: 36px;
+}
+#content6-18 P {
+  color: #232323;
+}
+#msg-box5-19 P {
+  text-align: left;
 }
 #contacts1-2 STRONG {
   color: #fadd86;
@@ -585,6 +600,13 @@ h6,
   text-align: center;
 }
 #header3-t .mbr-section-title {
+  color: #f7da64;
+}
+#header3-1a .mbr-section-title,
+#header3-1a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1a .mbr-section-title {
   color: #f7da64;
 }
 #header3-d .mbr-section-title,
