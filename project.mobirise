@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wichai Jungle Homestay",
-    "currentPage": "index.html",
+    "currentPage": "Location.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -35,7 +35,7 @@
     "noImageResize": "",
     "versionFirst": "4.6.6",
     "uniqCompNum": 48,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "siteFonts": [
       {
@@ -650,7 +650,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
