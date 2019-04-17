@@ -12,6 +12,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -438,10 +440,15 @@ h6,
 }
 #contacts1-2 STRONG {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #contacts1-2 P {
   font-family: 'Ubuntu', sans-serif;
   color: #ffffff;
+}
+#contacts1-2 H2 {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -512,18 +519,19 @@ h6,
 
 
 
-#form1-1b .form-control-label {
-  color: #000000;
-}
-#form1-1b .mbr-section-title {
-  color: #9b9f48;
-}
+
+
 #contacts1-v STRONG {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #contacts1-v P {
   font-family: 'Ubuntu', sans-serif;
   color: #ffffff;
+}
+#contacts1-v H2 {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
@@ -594,6 +602,8 @@ h6,
 
 
 
+
+
 #header3-a .mbr-section-title,
 #header3-a .mbr-section-subtitle {
   text-align: center;
@@ -638,10 +648,15 @@ h6,
 }
 #contacts1-8 STRONG {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #contacts1-8 P {
   font-family: 'Ubuntu', sans-serif;
   color: #ffffff;
+}
+#contacts1-8 H2 {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
