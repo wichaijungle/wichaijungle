@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wichai Jungle Homestay",
-    "currentPage": "Location.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -57,11 +57,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-136297946-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-136297946-1');\r\n</script>\r\n",
     "siteUrl": "undefined",
     "imageResize": true,
-    "publishType": "github",
-    "mbrsite": "mbrsite://%7B%22id%22%3A318555%2C%22domain%22%3A%22w4achk10rf.mobirisesite.com%22%7D",
-    "publishChangesOnly": true,
-    "gitHubName": "wichaijungle",
-    "gitHubPath": "master"
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
